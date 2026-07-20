@@ -35,13 +35,6 @@ cybersecurity-home-lab/
 │       └── custom-virustotal-ip       ← AbuseIPDB IP threat intelligence script
 ├── opencanary-honeypot/
 │   ├── README.md                      ← Deployment and integration notes
-│   ├── opencanary.conf                ← Honeypot config (SSH, FTP, HTTP, RDP, MySQL, SMB, etc.)
-│   ├── decoders/                      ← Custom Wazuh decoders
-│   └── rules/                         ← Custom alerting rules
-├── scripts/
-│   ├── daily-threat-report.py         ← Daily AI threat intel report (Claude Haiku + AbuseIPDB)
-│   └── fail2ban/
-│       └── discord-notify.conf        ← Fail2ban Discord ban/unban notification action
 ├── kali-scripts/
 │   ├── README.md
 │   └── scripts/                       ← Offensive testing scripts
