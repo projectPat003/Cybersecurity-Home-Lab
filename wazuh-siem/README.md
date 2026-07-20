@@ -10,7 +10,7 @@ This section documents the deployment and configuration of a self-hosted Wazuh 4
 |---|---|---|---|
 | Wazuh Manager | WazuhCMDC (DigitalOcean) | Ubuntu 22.04 LTS | 142.93.251.205 |
 | Agent 001 | ubuntu-server-po (DigitalOcean) | Ubuntu 24.04 LTS | 159.89.53.117 |
-| Agent 002 | PATPC | Windows 11 Home | 192.168.40.134 |
+| Agent 002 | PATPC | Windows 11 Home | 192.168.40.x |
 | Agent 003 | eljefe | Kali GNU/Linux | 192.168.40.x |
 | Agent 004 | PatHP55 | Windows 11 Home | 192.168.40.x |
 
