@@ -40,7 +40,7 @@ Over the past 24 hours, two monitored agents detected 1,116 alerts dominated by 
 
 ---
 
-### 🔴 Top Attacking IPs
+### 🔴 Top Attacking IPs (the flags did not render, but there are flags that load beside the name of the country)
 
 | IP | Country | Score | Hits | ISP | AbuseIPDB Reports |
 |---|---|---|---|---|---|
